@@ -1,0 +1,410 @@
+Species;Year;Colony;BS;N;Successes;SST
+Atlantic puffin;1978;Rost;0;25;0;7.808816308
+Atlantic puffin;1979;Rost;0;31;0;7.506369612
+Atlantic puffin;1980;Rost;0;5;0;7.333357038
+Atlantic puffin;1981;Rost;0;10;0;7.624476735
+Atlantic puffin;1982;Rost;0;11;0;7.042587851
+Atlantic puffin;1983;Rost;0.88;57;50;7.333630393
+Atlantic puffin;1984;Rost;0.47;32;15;7.887201334
+Atlantic puffin;1985;Rost;0.77;31;24;7.749615979
+Atlantic puffin;1986;Rost;0;72;0;6.904932468
+Atlantic puffin;1987;Rost;0;8;0;6.531706297
+Atlantic puffin;1988;Hornoya;0.9;49;44;3.792877553
+Atlantic puffin;1988;Rost;0.24;50;12;6.841364473
+Atlantic puffin;1989;Hornoya;0.81;42;34;3.617256497
+Atlantic puffin;1989;Rost;0.88;83;73;7.556443657
+Atlantic puffin;1990;Hornoya;0.83;40;33;4.100266869
+Atlantic puffin;1990;Rost;0.8;92;74;7.281430077
+Atlantic puffin;1991;Hornoya;NA;NA;NA;3.857712284
+Atlantic puffin;1991;Rost;0.92;99;91;6.543774191
+Atlantic puffin;1992;Hornoya;0.83;40;33;3.854670538
+Atlantic puffin;1992;Rost;0.96;121;116;7.04459588
+Atlantic puffin;1993;Hornoya;0.78;40;31;4.105020869
+Atlantic puffin;1993;Rost;0.51;92;47;6.968772484
+Atlantic puffin;1994;Hornoya;NA;NA;NA;3.645828075
+Atlantic puffin;1994;Rost;0.02;55;1;6.517252837
+Atlantic puffin;1995;Hornoya;0.88;42;37;4.038175244
+Atlantic puffin;1995;Rost;0;1;0;7.32706722
+Atlantic puffin;1996;Hornoya;0.86;43;37;3.49922991
+Atlantic puffin;1996;Rost;0.25;67;17;7.14093149
+Atlantic puffin;1997;Hornoya;0.93;40;37;3.598719917
+Atlantic puffin;1997;Rost;0;150;0;7.261649618
+Atlantic puffin;1998;Hornoya;0.92;37;34;3.683112791
+Atlantic puffin;1998;Rost;0.01;117;1;6.732563649
+Atlantic puffin;1999;Hornoya;NA;NA;NA;3.497592188
+Atlantic puffin;1999;Rost;0.71;94;67;7.029881472
+Atlantic puffin;2000;Hornoya;0.87;39;34;3.411878439
+Atlantic puffin;2000;Rost;0.02;98;2;6.767968632
+Atlantic puffin;2001;Hornoya;0.79;38;30;3.090881444
+Atlantic puffin;2001;Rost;0.84;96;81;6.852731082
+Atlantic puffin;2002;Hornoya;0.9;39;35;3.058199527
+Atlantic puffin;2002;Rost;0.91;96;87;6.611688202
+Atlantic puffin;2003;Hornoya;0.89;37;33;4.307268964
+Atlantic puffin;2003;Rost;0.35;85;30;6.960908166
+Atlantic puffin;2004;Hornoya;0.84;44;37;3.805013426
+Atlantic puffin;2004;Rost;0.88;65;57;6.546337713
+Atlantic puffin;2005;Hornoya;0.83;41;34;3.710914965
+Atlantic puffin;2005;Rost;0.08;51;4;7.224086005
+Atlantic puffin;2006;Anda;0.74;50;37;5.755579086
+Atlantic puffin;2006;Hjelmsoya;0;102;0;4.371210369
+Atlantic puffin;2006;Hornoya;0.75;48;36;3.680956491
+Atlantic puffin;2006;Rost;0.88;57;50;6.855370981
+Atlantic puffin;2007;Anda;0.37;54;20;5.995003865
+Atlantic puffin;2007;Hjelmsoya;0.2;102;20;4.43387959
+Atlantic puffin;2007;Hornoya;0.741;54;40;3.406791473
+Atlantic puffin;2007;Rost;0;33;0;7.052630828
+Atlantic puffin;2007;Sklinna1;0.26;19;5;7.179970152
+Atlantic puffin;2008;Anda;0.28;43;12;6.740123477
+Atlantic puffin;2008;Hjelmsoya;NA;NA;NA;5.321899947
+Atlantic puffin;2008;Hornoya;0.6;50;30;4.773165562
+Atlantic puffin;2008;Rost;0;0;0;7.808816308
+Atlantic puffin;2008;Sklinna1;0;0;0;7.718975091
+Atlantic puffin;2009;Anda;0.49;47;23;6.669890266
+Atlantic puffin;2009;Hjelmsoya;NA;NA;NA;5.133429679
+Atlantic puffin;2009;Hornoya;0.77;52;40;4.343479312
+Atlantic puffin;2009;Rost;0;31;0;7.506369612
+Atlantic puffin;2009;Sklinna1;0.35;28;10;7.438458067
+Atlantic puffin;2010;Anda;NA;NA;NA;6.087332782
+Atlantic puffin;2010;Hjelmsoya;NA;NA;NA;5.405932405
+Atlantic puffin;2010;Hornoya;0.8;56;45;4.827876456
+Atlantic puffin;2010;Rost;0;9;0;7.333357038
+Atlantic puffin;2010;Sklinna1;0.67;3;2;7.332247651
+Atlantic puffin;2011;Anda;0.75;53;40;6.201724491
+Atlantic puffin;2011;Hjelmsoya;0.13;68;9;5.19258528
+Atlantic puffin;2011;Hornoya;0.23;54;12;4.218659506
+Atlantic puffin;2011;Rost;0;8;0;7.624476735
+Atlantic puffin;2011;Runde1;0;34;0;8.190707006
+Atlantic puffin;2011;Sklinna1;0.65;17;11;7.825072198
+Atlantic puffin;2012;Anda;NA;NA;NA;5.904725236
+Atlantic puffin;2012;Hjelmsoya;0.3;74;22;4.917804134
+Atlantic puffin;2012;Hornoya;0.25;68;17;3.934927655
+Atlantic puffin;2012;Rost;0;0;0;7.042587851
+Atlantic puffin;2012;Runde1;0.42;48;20;7.837992556
+Atlantic puffin;2012;Sklinna1;NA;NA;NA;7.439263515
+Atlantic puffin;2013;Anda;0.62;60;37;6.186067911
+Atlantic puffin;2013;Hjelmsoya;0.16;78;12;5.339095473
+Atlantic puffin;2013;Hornoya;0.65;40;26;4.280704575
+Atlantic puffin;2013;Rost;0;0;0;7.333630393
+Atlantic puffin;2013;Runde1;0.16;45;7;8.184394277
+Atlantic puffin;2013;Sklinna1;0.25;16;4;7.892801751
+Atlantic puffin;2014;Anda;0.58;53;31;6.814244686
+Atlantic puffin;2014;Hjelmsoya;0.91;59;54;5.825370174
+Atlantic puffin;2014;Hornoya;0.19;31;6;5.049181139
+Atlantic puffin;2014;Rost;0;18;0;7.887201334
+Atlantic puffin;2014;Runde1;0.37;35;13;8.812227455
+Atlantic puffin;2014;Sklinna1;0.22;18;4;8.226814527
+Atlantic puffin;2015;Anda;0.72;42;30;6.484701438
+Atlantic puffin;2015;Hjelmsoya;0.34;29;10;5.704127627
+Atlantic puffin;2015;Hornoya;0.22;22;5;4.853020302
+Atlantic puffin;2015;Rost;0;27;0;7.749615979
+Atlantic puffin;2015;Runde1;0.39;38;15;8.46943557
+Atlantic puffin;2015;Sklinna1;0.78;9;7;7.898038732
+Atlantic puffin;2016;Anda;0.9;44;40;5.29685269
+Atlantic puffin;2016;Hjelmsoya;0.64;77;49;4.475182496
+Atlantic puffin;2016;Hornoya;0.58;33;19;4.011192878
+Atlantic puffin;2016;Rost;0.09;53;5;6.904932468
+Atlantic puffin;2016;Runde1;0.63;38;24;8.20012296
+Atlantic puffin;2016;Sklinna1;0.57;7;4;7.38672673
+Atlantic puffin;2017;Anda;0.85;60;51;4.877393051
+Atlantic puffin;2017;Hjelmsoya;0.85;41;35;4.161742085
+Atlantic puffin;2017;Hornoya;0.72;37;27;3.833858337
+Atlantic puffin;2017;Rost;0.33;52;17;6.531706297
+Atlantic puffin;2017;Runde1;0.47;36;17;7.128836273
+Atlantic puffin;2017;Sklinna1;0.54;11;6;6.541110346
+Atlantic puffin;2018;Anda;0.88;52;46;5.375500615
+Atlantic puffin;2018;Hjelmsoya;0.52;98;51;4.818738336
+Atlantic puffin;2018;Hornoya;0.82;39;32;3.792877553
+Atlantic puffin;2018;Rost;0.24;50;12;6.841364473
+Atlantic puffin;2018;Runde1;0.05;39;2;7.436610517
+Atlantic puffin;2018;Sklinna1;0.5;12;6;7.077949371
+Atlantic puffin;2019;Anda;0.93;54;50;6.150572499
+Atlantic puffin;2019;Hjelmsoya;0.19;93;18;4.346207253
+Atlantic puffin;2019;Hornoya;0.57;30;17;3.617256497
+Atlantic puffin;2019;Rost;0.15;71;11;7.556443657
+Atlantic puffin;2019;Runde1;0.29;42;12;8.006918149
+Atlantic puffin;2019;Sklinna1;0.75;12;9;7.651192094
+Atlantic puffin;2020;Anda;0.24;54;13;6.241442542
+Atlantic puffin;2020;Hjelmsoya;0.12;101;12;5.052792556
+Atlantic puffin;2020;Hornoya;0.06;36;2;4.100266869
+Atlantic puffin;2020;Rost;0;21;0;7.281430077
+Atlantic puffin;2020;Runde1;0.65;48;31;7.742314887
+Atlantic puffin;2020;Sklinna1;0.82;17;14;7.637960936
+Atlantic puffin;2021;Anda;0.74;42;31;6.608594965
+Atlantic puffin;2021;Hjelmsoya;0.37;148;55;5.718876354
+Atlantic puffin;2021;Hornoya;0.1;31;3;4.727258008
+Atlantic puffin;2021;Rost;0.11;63;7;7.679212661
+Atlantic puffin;2021;Runde1;0.4;45;18;8.178230215
+Atlantic puffin;2021;Sklinna1;0.8;13;10;7.899806055
+Atlantic puffin;2022;Sklinna1;0.39;7;3;7.611920357
+Black legged kittiwake;1988;Hornoya;1.07;383;410;3.803856838
+Black legged kittiwake;1989;Hornoya;1.21;1076;1302;3.6313053
+Black legged kittiwake;1990;Hornoya;1.08;1193;1288;4.11385234
+Black legged kittiwake;1991;Hornoya;0.69;1047;722;3.868254644
+Black legged kittiwake;1992;Hornoya;0.83;1204;999;3.863958262
+Black legged kittiwake;1993;Hornoya;0.67;1136;761;4.108182745
+Black legged kittiwake;1994;Hornoya;0.73;2317;1691;3.655907887
+Black legged kittiwake;1995;Hornoya;0.53;3191;1691;4.041658011
+Black legged kittiwake;1996;Hornoya;0.61;1411;861;3.50802707
+Black legged kittiwake;1997;Hornoya;1.14;1656;1888;3.610436982
+Black legged kittiwake;1998;Hornoya;0.99;991;981;3.69240185
+Black legged kittiwake;1999;Hornoya;1.28;1404;1797;3.50345772
+Black legged kittiwake;2000;Hornoya;0.92;1317;1212;3.422845917
+Black legged kittiwake;2001;Hornoya;0.066;1507;99;3.100685957
+Black legged kittiwake;2002;Hornoya;0.6;1728;1037;3.065462181
+Black legged kittiwake;2003;Hornoya;0.37;765;283;4.308816302
+Black legged kittiwake;2004;Hornoya;0.63;2166;1365;3.804460889
+Black legged kittiwake;2005;Hornoya;0.97;1195;1159;3.723224059
+Black legged kittiwake;2006;Anda;0.96;78;75;5.791890512
+Black legged kittiwake;2006;Bjornoya;0.72;503;362;0.857139015
+Black legged kittiwake;2006;Hjelmsoya;0;247;0;4.344932452
+Black legged kittiwake;2006;Hornoya;0.58;1595;925;3.69464435
+Black legged kittiwake;2006;Rost;1.2;88;106;6.851549027
+Black legged kittiwake;2007;Anda;1;581;581;6.026225072
+Black legged kittiwake;2007;Bjornoya;0.77;538;414;-1.549459452
+Black legged kittiwake;2007;Hjelmsoya;0;247;0;4.4001505
+Black legged kittiwake;2007;Hornoya;0.14;1899;266;3.416219118
+Black legged kittiwake;2007;Rost;0.53;53;28;7.050818232
+Black legged kittiwake;2008;Anda;0.93;613;570;6.777334422
+Black legged kittiwake;2008;Bjornoya;NA;NA;NA;1.35882378
+Black legged kittiwake;2008;Hjelmsoya;NA;NA;NA;5.285302723
+Black legged kittiwake;2008;Hornoya;0.04;1706;68;4.776355476
+Black legged kittiwake;2008;Isfjorden;0.42;31;13;0.025605036
+Black legged kittiwake;2008;Rost;0.46;83;38;7.804658043
+Black legged kittiwake;2009;Anda;0.74;652;482;6.697640106
+Black legged kittiwake;2009;Bjornoya;NA;NA;NA;1.240588049
+Black legged kittiwake;2009;Hjelmsoya;NA;NA;NA;5.110623595
+Black legged kittiwake;2009;Hornoya;0.21;1822;383;4.353876123
+Black legged kittiwake;2009;Isfjorden;NA;NA;NA;-0.459270643
+Black legged kittiwake;2009;Rost;0.44;81;36;7.503332585
+Black legged kittiwake;2010;Anda;NA;NA;NA;6.139269586
+Black legged kittiwake;2010;Bjornoya;NA;NA;NA;2.375045385
+Black legged kittiwake;2010;Hjelmsoya;NA;NA;NA;5.370932815
+Black legged kittiwake;2010;Hornoya;0.98;1118;1096;4.836541038
+Black legged kittiwake;2010;Isfjorden;0.82;34;28;7.29831023
+Black legged kittiwake;2010;Rost;NA;NA;NA;7.33233982
+Black legged kittiwake;2011;Anda;0.3;668;200;6.249169232
+Black legged kittiwake;2011;Bjornoya;0.62;634;393;1.689317482
+Black legged kittiwake;2011;Hjelmsoya;0.05;74;4;5.166367425
+Black legged kittiwake;2011;Hornoya;0.23;1422;327;4.23877345
+Black legged kittiwake;2011;Isfjorden;0.36;47;17;6.866586455
+Black legged kittiwake;2011;Rost;0;79;0;7.625553825
+Black legged kittiwake;2011;Runde2;0;546;0;8.219634534
+Black legged kittiwake;2012;Anda;0.47;476;224;5.941273313
+Black legged kittiwake;2012;Bjornoya;0.7;389;272;1.661912027
+Black legged kittiwake;2012;Hjelmsoya;0.11;102;11;4.896181162
+Black legged kittiwake;2012;Hornoya;0.38;1477;561;3.943097822
+Black legged kittiwake;2012;Isfjorden;0.277;65;18;7.561773279
+Black legged kittiwake;2012;Rost;0.7;43;30;7.04688722
+Black legged kittiwake;2012;Runde2;0.82;546;448;7.844531931
+Black legged kittiwake;2012;Sklinna2;0;517;0;7.243215292
+Black legged kittiwake;2013;Anda;0.34;906;308;6.227433017
+Black legged kittiwake;2013;Bjornoya;0.7;389;272;1.512382809
+Black legged kittiwake;2013;Hjelmsoya;0.85;86;73;5.306771929
+Black legged kittiwake;2013;Hornoya;1.1;616;678;4.294895721
+Black legged kittiwake;2013;Isfjorden;0;18;0;6.924461611
+Black legged kittiwake;2013;Rost;0.58;31;18;7.344497405
+Black legged kittiwake;2013;Runde2;0.61;640;390;8.221804961
+Black legged kittiwake;2013;Sklinna2;0.07;548;38;7.474186807
+Black legged kittiwake;2014;Anda;0.32;788;252;6.847924079
+Black legged kittiwake;2014;Bjornoya;0.49;747;366;2.337508876
+Black legged kittiwake;2014;Hjelmsoya;0.04;124;5;5.798114666
+Black legged kittiwake;2014;Hornoya;0.3;43;13;5.064119872
+Black legged kittiwake;2014;Isfjorden;0;37;0;7.206985034
+Black legged kittiwake;2014;Rost;0.35;31;11;7.895454886
+Black legged kittiwake;2014;Runde2;0.63;641;404;8.837113559
+Black legged kittiwake;2014;Sklinna2;0.01;226;2;8.254127845
+Black legged kittiwake;2015;Anda;0.59;47;28;6.531385246
+Black legged kittiwake;2015;Bjornoya;0.49;747;366;2.404165908
+Black legged kittiwake;2015;Hjelmsoya;0.01;229;2;5.674241512
+Black legged kittiwake;2015;Hornoya;0.1;57;6;4.868050784
+Black legged kittiwake;2015;Isfjorden;0.451;51;23;6.953940845
+Black legged kittiwake;2015;Rost;0.47;32;15;7.761600102
+Black legged kittiwake;2015;Runde2;0.69;687;474;8.483972127
+Black legged kittiwake;2015;Sklinna2;0.07;176;12;7.530429303
+Black legged kittiwake;2016;Anda;0.64;492;315;5.341025662
+Black legged kittiwake;2016;Bjornoya;0.49;747;366;-0.089033444
+Black legged kittiwake;2016;Hjelmsoya;0.2;136;27;4.439227656
+Black legged kittiwake;2016;Hornoya;0.47;15;7;4.019419633
+Black legged kittiwake;2016;Isfjorden;0.687;67;46;-0.254726811
+Black legged kittiwake;2016;Rost;0.45;33;15;6.899890649
+Black legged kittiwake;2016;Runde2;0.59;641;378;8.186381103
+Black legged kittiwake;2016;Sklinna2;0.27;111;30;7.100697099
+Black legged kittiwake;2017;Anda;1.01;819;827;4.935623013
+Black legged kittiwake;2017;Bjornoya;0.73;503;367;0.272166916
+Black legged kittiwake;2017;Hjelmsoya;0.33;114;38;4.115127536
+Black legged kittiwake;2017;Hornoya;0.3;20;6;3.850016991
+Black legged kittiwake;2017;Isfjorden;0.06;35;2;-0.401731614
+Black legged kittiwake;2017;Rost;0.56;34;19;6.527340173
+Black legged kittiwake;2017;Runde2;0.68;657;447;7.142695979
+Black legged kittiwake;2017;Sklinna2;0.69;48;33;5.911901174
+Black legged kittiwake;2018;Anda;0.55;865;476;5.423565013
+Black legged kittiwake;2018;Bjornoya;0.74;458;339;-0.020659405
+Black legged kittiwake;2018;Hjelmsoya;0.27;234;63;4.779732204
+Black legged kittiwake;2018;Hornoya;1.04;160;166;3.803856838
+Black legged kittiwake;2018;Isfjorden;0.22;37;8;-0.29957135
+Black legged kittiwake;2018;Rost;0.7;241;169;6.843872787
+Black legged kittiwake;2018;Runde2;0.73;615;449;7.451817526
+Black legged kittiwake;2018;Sklinna2;NA;NA;NA;6.523404175
+Black legged kittiwake;2019;Anda;0.48;849;408;6.195511014
+Black legged kittiwake;2019;Bjornoya;0.74;407;301;-2.028121845
+Black legged kittiwake;2019;Hjelmsoya;0;73;0;4.307185351
+Black legged kittiwake;2019;Hornoya;0;18;0;3.6313053
+Black legged kittiwake;2019;Isfjorden;0.43;21;9;-0.481183173
+Black legged kittiwake;2019;Rost;0.68;284;193;7.562513249
+Black legged kittiwake;2019;Runde2;0.71;663;471;8.023926895
+Black legged kittiwake;2019;Sklinna2;NA;NA;NA;7.194007936
+Black legged kittiwake;2020;Anda;0.53;915;485;6.27835577
+Black legged kittiwake;2020;Bjornoya;0.82;223;183;0.589304169
+Black legged kittiwake;2020;Hjelmsoya;0.34;173;59;5.023988388
+Black legged kittiwake;2020;Hornoya;0;60;0;4.11385234
+Black legged kittiwake;2020;Isfjorden;NA;NA;NA;-0.132083737
+Black legged kittiwake;2020;Rost;0.38;239;91;7.289334631
+Black legged kittiwake;2020;Runde2;0.8;697;558;7.761984764
+Black legged kittiwake;2020;Sklinna2;0.33;125;41;6.937771884
+Black legged kittiwake;2021;Anda;0.37;875;324;6.643946885
+Black legged kittiwake;2021;Bjornoya;0.8;290;232;2.223939757
+Black legged kittiwake;2021;Hjelmsoya;0.19;186;35;5.694280001
+Black legged kittiwake;2021;Hornoya;0;153;0;4.739954384
+Black legged kittiwake;2021;Isfjorden;0.38;29;11;7.450186212
+Black legged kittiwake;2021;Rost;0.33;258;85;7.688299241
+Black legged kittiwake;2021;Runde2;0.75;700;525;8.192968868
+Black legged kittiwake;2021;Sklinna2;0.57;122;70;7.50800302
+Brunnichs guillemot;2006;Bjornoya;0.72;61;44;0.61949056
+Brunnichs guillemot;2007;Bjornoya;0.8;54;43;-1.795324707
+Brunnichs guillemot;2007;Kongsfjorden;0.45;47;21;2.077262467
+Brunnichs guillemot;2008;Bjornoya;NA;NA;NA;1.229618327
+Brunnichs guillemot;2008;Kongsfjorden;0.34;73;25;3.241868345
+Brunnichs guillemot;2009;Bjornoya;NA;NA;NA;0.932702637
+Brunnichs guillemot;2010;Bjornoya;NA;NA;NA;1.833276367
+Brunnichs guillemot;2011;Bjornoya;0.56;39;22;1.287113444
+Brunnichs guillemot;2011;Isfjorden;0.75;59;44;7.145364778
+Brunnichs guillemot;2011;Kongsfjorden;0.79;14;11;1.6627532
+Brunnichs guillemot;2012;Bjornoya;0.6;40;24;1.39683431
+Brunnichs guillemot;2012;Isfjorden;0.459;157;72;7.885907104
+Brunnichs guillemot;2012;Jan Mayen;0.38;61;23;5.016403061
+Brunnichs guillemot;2012;Kongsfjorden;0.72;50;36;1.685809906
+Brunnichs guillemot;2013;Bjornoya;0.58;48;28;1.060042318
+Brunnichs guillemot;2013;Isfjorden;0.449;118;53;7.207269833
+Brunnichs guillemot;2013;Jan Mayen;0.36;102;37;5.303242686
+Brunnichs guillemot;2013;Kongsfjorden;0.528;53;28;1.797081864
+Brunnichs guillemot;2014;Bjornoya;0.55;56;31;1.778894043
+Brunnichs guillemot;2014;Isfjorden;0.419;93;39;7.490982186
+Brunnichs guillemot;2014;Jan Mayen;0.36;80;29;5.771202119
+Brunnichs guillemot;2014;Kongsfjorden;0.653;54;35;2.296927659
+Brunnichs guillemot;2015;Bjornoya;0.46;55;25;1.997786458
+Brunnichs guillemot;2015;Isfjorden;0.609;64;39;7.19684525
+Brunnichs guillemot;2015;Jan Mayen;0.5;60;30;5.910461813
+Brunnichs guillemot;2015;Kongsfjorden;0.796;38;30;2.720880605
+Brunnichs guillemot;2016;Bjornoya;0.58;60;35;-0.337398275
+Brunnichs guillemot;2016;Isfjorden;0.778;36;28;-0.358935057
+Brunnichs guillemot;2016;Jan Mayen;0.28;58;16;4.3243213
+Brunnichs guillemot;2016;Kongsfjorden;0.737;49;36;1.931966061
+Brunnichs guillemot;2017;Bjornoya;0.4;52;21;0.043583171
+Brunnichs guillemot;2017;Isfjorden;0.63;89;56;-0.506081478
+Brunnichs guillemot;2017;Jan Mayen;0.423076923;78;33;4.247985153
+Brunnichs guillemot;2017;Kongsfjorden;0.69;45;31;1.779630377
+Brunnichs guillemot;2018;Bjornoya;0.82;17;14;-0.333003743
+Brunnichs guillemot;2018;Jan Mayen;0.294117647;68;20;4.273043461
+Brunnichs guillemot;2018;Kongsfjorden;0.78;23;18;1.975630111
+Brunnichs guillemot;2019;Bjornoya;0.75;53;40;-2.32976888
+Brunnichs guillemot;2019;Jan Mayen;0.64516129;61;39;4.126581779
+Brunnichs guillemot;2019;Kongsfjorden;0.73;26;19;1.9381055
+Brunnichs guillemot;2020;Bjornoya;0.78;50;39;0.391483561
+Brunnichs guillemot;2020;Jan Mayen;NA;NA;NA;3.902912605
+Brunnichs guillemot;2020;Kongsfjorden;NA;NA;NA;1.840022045
+Brunnichs guillemot;2021;Bjornoya;0.58;48;28;1.908614095
+Brunnichs guillemot;2021;Jan Mayen;0.72;53;38;6.33250885
+Brunnichs guillemot;2021;Kongsfjorden;0.71;21;15;3.088846959
+Common guillemot;2006;Bjornoya;0.84;67;56;0.66648655
+Common guillemot;2007;Bjornoya;0.86;69;59;-1.751259766
+Common guillemot;2008;Bjornoya;NA;NA;NA;1.256993962
+Common guillemot;2009;Bjornoya;NA;NA;NA;0.992552639
+Common guillemot;2009;Hornoya;0.89;36;32;4.321682736
+Common guillemot;2010;Bjornoya;NA;NA;NA;1.94302048
+Common guillemot;2010;Hornoya;0.88;40;35;4.808671139
+Common guillemot;2011;Bjornoya;0.47;58;27;1.365380286
+Common guillemot;2011;Hjelmsoya;0.81;27;22;5.444818418
+Common guillemot;2011;Hornoya;0.79;34;27;4.181657241
+Common guillemot;2012;Bjornoya;0.7;53;37;1.447973909
+Common guillemot;2012;Hjelmsoya;0.48;141;68;5.127947391
+Common guillemot;2012;Hornoya;0.74;33;24;3.918050444
+Common guillemot;2012;Jan Mayen;0.71;14;10;5.016403061
+Common guillemot;2013;Bjornoya;0.71;115;82;1.149734777
+Common guillemot;2013;Hjelmsoya;0.43;28;12;5.610845339
+Common guillemot;2013;Hornoya;0.68;31;21;4.254092946
+Common guillemot;2013;Jan Mayen;0.67;18;12;5.303242686
+Common guillemot;2014;Bjornoya;0.68;123;84;1.890209284
+Common guillemot;2014;Hjelmsoya;0.46;26;12;6.065381273
+Common guillemot;2014;Hornoya;0.77;30;23;5.020790498
+Common guillemot;2014;Jan Mayen;0.76;17;13;5.771202119
+Common guillemot;2015;Bjornoya;0.59;111;65;2.077548911
+Common guillemot;2015;Hjelmsoya;0.46;37;17;5.980589654
+Common guillemot;2015;Hornoya;0.55;29;16;4.822740064
+Common guillemot;2015;Jan Mayen;0.85;20;17;5.910461813
+Common guillemot;2016;Bjornoya;0.69;137;95;-0.288717588
+Common guillemot;2016;Hjelmsoya;0.67;12;8;4.761691893
+Common guillemot;2016;Hornoya;0.82;39;32;3.990964698
+Common guillemot;2016;Jan Mayen;0.79;14;11;4.3243213
+Common guillemot;2017;Bjornoya;0.72;122;88;0.088494135
+Common guillemot;2017;Hjelmsoya;0.67;21;14;4.550675664
+Common guillemot;2017;Hornoya;0.86;29;25;3.797101703
+Common guillemot;2017;Jan Mayen;0.71;21;15;4.247985153
+Common guillemot;2018;Bjornoya;0.66;68;45;-0.272369815
+Common guillemot;2018;Hjelmsoya;1;29;29;5.098722811
+Common guillemot;2018;Hornoya;0.86;35;30;3.769392425
+Common guillemot;2018;Jan Mayen;0.62;29;18;4.273043461
+Common guillemot;2019;Bjornoya;0.72;78;56;-2.275666482
+Common guillemot;2019;Hjelmsoya;0.43;21;9;4.665879025
+Common guillemot;2019;Hornoya;0;35;0;3.586591662
+Common guillemot;2019;Jan Mayen;0.65;23;15;4.126581779
+Common guillemot;2020;Bjornoya;0.75;145;109;0.428012854
+Common guillemot;2020;Hjelmsoya;0.45;20;9;5.297114926
+Common guillemot;2020;Hornoya;0;35;0;4.072755363
+Common guillemot;2020;Jan Mayen;NA;NA;NA;3.902912605
+Common guillemot;2021;Bjornoya;0.66;150;99;1.969230665
+Common guillemot;2021;Hjelmsoya;0.87;55;48;5.949239637
+Common guillemot;2021;Hornoya;0;35;0;4.703576169
+Common guillemot;2021;Jan Mayen;0.41;22;9;6.33250885
+Fulmar;2011;Jan Mayen;0.73;52;38;5.718149665
+Fulmar;2012;Jan Mayen;0.64;33;21;4.724792184
+Fulmar;2013;Jan Mayen;0.69;102;70;5.043695559
+Fulmar;2014;Jan Mayen;0.62;98;61;5.437890433
+Fulmar;2015;Jan Mayen;0.75;73;55;5.688158782
+Fulmar;2016;Jan Mayen;0.75;96;72;3.973220749
+Fulmar;2017;Jan Mayen;0.78;89;69;3.989597096
+Fulmar;2018;Jan Mayen;0.75;85;64;4.021027646
+Fulmar;2019;Jan Mayen;0.59;96;57;3.836733962
+Fulmar;2020;Jan Mayen;NA;NA;NA;3.618564016
+Fulmar;2021;Jan Mayen;0.65;89;58;6.118133683
+Little auk;2006;Bjornoya;0.67;43;29;0.789878021
+Little auk;2006;Isfjorden;0.38;29;11;-1.132041977
+Little auk;2007;Bjornoya;0.78;90;70;-1.62481845
+Little auk;2007;Isfjorden;0.64;50;32;-0.28908377
+Little auk;2008;Bjornoya;NA;NA;NA;1.324701526
+Little auk;2008;Isfjorden;0.38;55;21;-0.088947078
+Little auk;2009;Bjornoya;NA;NA;NA;1.151924556
+Little auk;2009;Isfjorden;NA;NA;NA;-0.561339365
+Little auk;2010;Bjornoya;NA;NA;NA;2.223884273
+Little auk;2010;Isfjorden;0.86;44;38;7.423674557
+Little auk;2011;Bjornoya;0.85;52;44;1.573359454
+Little auk;2011;Isfjorden;0.78;27;21;7.011235548
+Little auk;2012;Bjornoya;NA;NA;NA;1.58489349
+Little auk;2012;Isfjorden;0.862;29;25;7.729937199
+Little auk;2013;Bjornoya;0.78;50;39;1.383733588
+Little auk;2013;Isfjorden;0.5;25;13;7.071137593
+Little auk;2014;Bjornoya;0.64;50;32;2.179134113
+Little auk;2014;Isfjorden;0.952;21;20;7.35422237
+Little auk;2015;Bjornoya;0.88;51;45;2.287247665
+Little auk;2015;Isfjorden;0.708;24;17;7.079743629
+Little auk;2016;Bjornoya;0.9;50;45;-0.160794439
+Little auk;2016;Isfjorden;0.7;20;14;-0.309682228
+Little auk;2017;Bjornoya;0.86;50;43;0.206542096
+Little auk;2017;Isfjorden;0.58;24;14;-0.45685841
+Little auk;2018;Bjornoya;0.86;44;38;-0.111139387
+Little auk;2018;Isfjorden;0.65;23;15;-0.354633509
+Little auk;2019;Bjornoya;0.8;50;40;-2.120604213
+Little auk;2019;Isfjorden;0.57;14;8;-0.56271421
+Little auk;2020;Bjornoya;0.84;50;42;0.529950415
+Little auk;2020;Isfjorden;NA;NA;NA;-0.189596156
+Little auk;2021;Bjornoya;0.84;50;42;2.131924758
+Little auk;2021;Isfjorden;0.53;17;9;7.568214413
